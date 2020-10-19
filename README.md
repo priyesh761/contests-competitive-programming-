@@ -1,5 +1,5 @@
 # contests-competitive-programming-
-Solution for problems from codeforces , codechef, atcoder begineers contests
+Solution for problems from codeforces contests
 
 
-This repository consists solution to problems from codeforces, codechef and atcoder.
+This repository consists solution to problems from codeforces.
